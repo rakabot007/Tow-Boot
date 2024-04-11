@@ -1,4 +1,4 @@
-# PINE64 Pinephone Pro
+sudo dd if=IMAGE.img of=/dev/[DEVICE] bs=1M status=progress conv=fsync# PINE64 Pinephone Pro
 
 ## Device-specific notes
 
